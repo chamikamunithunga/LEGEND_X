@@ -33,7 +33,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/LEGEND_X.git
+   git clone https://github.com/chamikamunithunga/LEGEND_X.git
    cd LEGEND_X
 
 
