@@ -1,4 +1,6 @@
 
+# LEGEND_X - Batman Version Chair Landing Page
+
 ![Screenshot 2024-09-28 at 7 41 14 PM](https://github.com/user-attachments/assets/d890e665-8819-426d-bb9c-5aac30413f84)
 
 ![Screenshot 2024-09-28 at 7 40 21 PM](https://github.com/user-attachments/assets/c2bf97b2-5f6c-4ce0-8960-3b9e5c42d03f)
@@ -6,9 +8,9 @@
 ![Screenshot 2024-09-28 at 7 41 21 PM](https://github.com/user-attachments/assets/feecb756-f9d5-4669-afdb-15d6fc2cbe31)
 
 
-# React + Vite
 
-# LEGEND_X - Batman Version Chair Landing Page
+
+
 
 Welcome to the **LEGEND_X** project! This repository contains the code for our exciting new landing page dedicated to our upcoming Batman-themed chair. Built with modern web technologies, this landing page showcases the chair's unique features and design.
 
